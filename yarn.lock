@@ -7037,10 +7037,9 @@ svg-tags@^1.0.0:
   resolved "https://registry.npmjs.org/svg-tags/-/svg-tags-1.0.0.tgz#58f71cee3bd519b59d4b2a843b6c7de64ac04764"
   integrity sha1-WPcc7jvVGbWdSyqEO2x95krAR2Q=
 
-svg-to-vue@^0.7.0:
+"svg-to-vue@https://github.com/Chrissi2812/svg-to-vue.git#vue-next":
   version "0.7.0"
-  resolved "https://registry.npmjs.org/svg-to-vue/-/svg-to-vue-0.7.0.tgz#ec86deb1742be38319462e36703af1dfa2f9fad9"
-  integrity sha512-Tg2nMmf3BQorYCAjxbtTkYyWPVSeox5AZUFvfy4MoWK/5tuQlnA/h3LAlTjV3sEvOC5FtUNovRSj3p784l4KOA==
+  resolved "https://github.com/Chrissi2812/svg-to-vue.git#5fed7a44791047959660ca12597aee6e5d642ff6"
   dependencies:
     svgo "^1.3.2"
 
