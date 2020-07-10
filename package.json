@@ -21,7 +21,7 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^2.0.0",
     "svg-to-vue": "https://github.com/Chrissi2812/svg-to-vue.git#vue-next"
   },
   "devDependencies": {
