@@ -1,7 +1,7 @@
-import svgToVue from 'svg-to-vue';
-import { getOptions } from 'loader-utils';
+const svgToVue = require('svg-to-vue');
+const { getOptions } = require('loader-utils');
 
-export default function (content) {
+module.exports = function (content) {
   const callback = this.async();
   const { svgo } = getOptions(this) || {};
 
